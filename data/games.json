@@ -1,0 +1,114 @@
+[
+    {
+        "image": "/src/assets/games/game-1.jpg",
+        "jackpot": "12.000"
+    },
+    {
+        "image": "/src/assets/games/game-02.jpg",
+        "jackpot": "35.000"
+    },
+    {
+        "image": "/src/assets/games/game-03.jpg",
+        "jackpot": "47.000"
+    },
+    {
+        "image": "/src/assets/games/game-04.jpg",
+        "jackpot": "12.000"
+    },
+    {
+        "image": "/src/assets/games/game-05.jpg",
+        "jackpot": "12.000"
+    },
+    {
+        "image": "/src/assets/games/game-06.jpg",
+        "jackpot": "2.000"
+    },
+    {
+        "image": "/src/assets/games/game-07.jpg",
+        "jackpot": "78.000"
+    },
+    {
+        "image": "/src/assets/games/game-08.jpg",
+        "jackpot": "58.000"
+    },
+    {
+        "image": "/src/assets/games/game-09.jpg",
+        "jackpot": "32.000"
+    },
+    {
+        "image": "/src/assets/games/game-10.jpg",
+        "jackpot": "3.000"
+    },
+    {
+        "image": "/src/assets/games/game-11.jpg",
+        "jackpot": "8.000"
+    },
+    {
+        "image": "/src/assets/games/game-12.jpg",
+        "jackpot": "98.000"
+    },
+    {
+        "image": "/src/assets/games/game-13.jpg",
+        "jackpot": "23.000"
+    },
+    {
+        "image": "/src/assets/games/game-14.jpg",
+        "jackpot": "21.000"
+    },
+    {
+        "image": "/src/assets/games/game-1.jpg",
+        "jackpot": "12.000"
+    },
+    {
+        "image": "/src/assets/games/game-02.jpg",
+        "jackpot": "35.000"
+    },
+    {
+        "image": "/src/assets/games/game-03.jpg",
+        "jackpot": "47.000"
+    },
+    {
+        "image": "/src/assets/games/game-04.jpg",
+        "jackpot": "12.000"
+    },
+    {
+        "image": "/src/assets/games/game-05.jpg",
+        "jackpot": "12.000"
+    },
+    {
+        "image": "/src/assets/games/game-06.jpg",
+        "jackpot": "2.000"
+    },
+    {
+        "image": "/src/assets/games/game-07.jpg",
+        "jackpot": "78.000"
+    },
+    {
+        "image": "/src/assets/games/game-08.jpg",
+        "jackpot": "58.000"
+    },
+    {
+        "image": "/src/assets/games/game-09.jpg",
+        "jackpot": "32.000"
+    },
+    {
+        "image": "/src/assets/games/game-10.jpg",
+        "jackpot": "3.000"
+    },
+    {
+        "image": "/src/assets/games/game-11.jpg",
+        "jackpot": "8.000"
+    },
+    {
+        "image": "/src/assets/games/game-12.jpg",
+        "jackpot": "98.000"
+    },
+    {
+        "image": "/src/assets/games/game-13.jpg",
+        "jackpot": "23.000"
+    },
+    {
+        "image": "/src/assets/games/game-14.jpg",
+        "jackpot": "21.000"
+    }
+]
